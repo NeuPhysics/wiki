@@ -4,3 +4,7 @@
 # Yeah
 
 OK it works.
+
+This is a test of the system. What about math.
+
+$\alpha=\beta$
