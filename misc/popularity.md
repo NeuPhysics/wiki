@@ -3,8 +3,7 @@
 
 # Popularity and Similarity
 
-* ToC
-{:toc}
+![Network Cosmology](/uploads/misc/network-cosmology.png "Network Cosmology")
 
 Notes of [Papadopoulos, F., Kitsak, M., Ngeles Serrano, M., Boguñá, M., & Krioukov, D. (2012). Popularity versus similarity in growing networks. ](http://doi:10.1038/nature11459)
 
